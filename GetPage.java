@@ -14,7 +14,7 @@ public class GetPage {
 
 	public static void main(String[] args) throws IOException {
 
-			//System.setProperty("http.proxyHost", "proxy.nagaokaut.ac.jp");
+            System.setProperty("http.proxyHost", "proxy.nagaokaut.ac.jp");
 		        //System.setProperty("http.proxyPort", "8080");
 		//		
 		//		Document document = Jsoup.connect("http://www.google.co.jp").get();
